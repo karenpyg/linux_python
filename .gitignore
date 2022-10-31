@@ -1,4 +1,7 @@
 # http://www.gnu.org/software/automake
+.env
+section_01/
+*.scratch.py
 
 Makefile.in
 /ar-lib
